@@ -1,0 +1,29 @@
+11-13 22:57:10 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 238:Plugin executed on: 'win32'
+11-13 22:57:10 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 239:Plugin executed with python version: '3.11.5 (main, Oct 29 2026, 05:20:44) [MSC v.1951 64 bit (AMD64)]'
+11-13 22:57:10 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 240:KiCad build version: 10.0.8
+11-13 22:57:10 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 241:Plugin version: 1.0.15
+11-13 22:57:10 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 246:Screen sizes: [wx.Size(3840, 2160), wx.Size(3840, 2160)]
+11-13 22:57:10 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 253:Dialog size: wx.Size(213, 81)
+11-13 22:57:10 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 255:Char size: 25
+11-13 22:57:11 com_github_MitjaNemec_Archive3DModels.archive_3d_models 30:Starting to archive 3D models
+11-13 22:57:11 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: G***
+11-13 22:57:11 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: REF**
+11-13 22:57:11 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: U1
+11-13 22:57:11 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${ZAT_RASPBERRY_PI_3D}/REAL/PIMORONI_PICO_LIPO.step
+11-13 22:57:12 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${ZAT_RASPBERRY_PI_3D}/REAL/PIMORONI_PICO_LIPO.step
+11-13 22:57:12 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${ZAT_RASPBERRY_PI_3D}/REAL/WAS_RP2350A.step
+11-13 22:57:12 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${ZAT_RASPBERRY_PI_3D}/REAL/WAS_RP2350A.step
+11-13 22:57:12 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${ZAT_RASPBERRY_PI_3D}/REAL/RASPBERRY_PI_PICO_2.step
+11-13 22:57:13 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${ZAT_RASPBERRY_PI_3D}/REAL/RASPBERRY_PI_PICO_2.step
+11-13 22:57:13 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${ZAT_RASPBERRY_PI_3D}/REAL/RASPBERRY_PI_PICO_W.step
+11-13 22:57:13 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${ZAT_RASPBERRY_PI_3D}/REAL/RASPBERRY_PI_PICO_W.step
+11-13 22:57:13 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${ZAT_RASPBERRY_PI_3D}/REAL/RASPBERRY_PI_PICO.step
+11-13 22:57:13 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${ZAT_RASPBERRY_PI_3D}/REAL/RASPBERRY_PI_PICO.step
+11-13 22:57:13 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${ZAT_RASPBERRY_PI_3D}/REAL/RASPBERRY_PI_PICO_2_H.step
+11-13 22:57:13 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${ZAT_RASPBERRY_PI_3D}/REAL/RASPBERRY_PI_PICO_2_H.step
+11-13 22:57:13 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${ZAT_RASPBERRY_PI_3D}/RASPBERRY_PI_PICO_H.step
+11-13 22:57:13 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${ZAT_RASPBERRY_PI_3D}/RASPBERRY_PI_PICO_H.step
+11-13 22:57:13 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: REF**
+11-13 22:57:13 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: J1
+11-13 22:57:13 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD10_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x40_P2.54mm_Horizontal.step
+11-13 22:57:14 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD10_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x40_P2.54mm_Horizontal.step

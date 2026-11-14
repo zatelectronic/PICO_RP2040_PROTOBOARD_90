@@ -1874,30 +1874,7 @@
 			(uuid "4d92bd8c-5e3c-5e62-9fd7-095b978f3a90")
 		)
 		(embedded_fonts no)
-		(model "${ZAT_RASPBERRY_PI_3D}/RASPBERRY_PI_PICO_H.step"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-		(model "${ZAT_RASPBERRY_PI_3D}/REAL/RASPBERRY_PI_PICO_2_H.step"
-			(hide yes)
-			(offset
-				(xyz 8.89 -24.13 3.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-		(model "${ZAT_RASPBERRY_PI_3D}/REAL/RASPBERRY_PI_PICO.step"
+		(model "${KIPRJMOD}/packages3D/PIMORONI_PICO_LIPO.step"
 			(hide yes)
 			(offset
 				(xyz 8.89 1.37 2.5)
@@ -1909,31 +1886,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "${ZAT_RASPBERRY_PI_3D}/REAL/RASPBERRY_PI_PICO_W.step"
-			(hide yes)
-			(offset
-				(xyz 8.89 -24.13 2.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-		(model "${ZAT_RASPBERRY_PI_3D}/REAL/RASPBERRY_PI_PICO_2.step"
-			(hide yes)
-			(offset
-				(xyz 8.89 -24.13 3.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-		(model "${ZAT_RASPBERRY_PI_3D}/REAL/WAS_RP2350A.step"
+		(model "${KIPRJMOD}/packages3D/WAS_RP2350A.step"
 			(hide yes)
 			(offset
 				(xyz 8.89 -49.63 4.1)
@@ -1945,10 +1898,57 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "${ZAT_RASPBERRY_PI_3D}/REAL/PIMORONI_PICO_LIPO.step"
+		(model "${KIPRJMOD}/packages3D/RASPBERRY_PI_PICO_2.step"
+			(hide yes)
+			(offset
+				(xyz 8.89 -24.13 3.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/packages3D/RASPBERRY_PI_PICO_W.step"
+			(hide yes)
+			(offset
+				(xyz 8.89 -24.13 2.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/packages3D/RASPBERRY_PI_PICO.step"
 			(hide yes)
 			(offset
 				(xyz 8.89 1.37 2.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/packages3D/RASPBERRY_PI_PICO_2_H.step"
+			(hide yes)
+			(offset
+				(xyz 8.89 -24.13 3.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/packages3D/RASPBERRY_PI_PICO_H.step"
+			(offset
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -5666,7 +5666,7 @@
 			(uuid "b08e34eb-3079-4c6e-91b5-5582791bc8e7")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x40_P2.54mm_Horizontal.step"
+		(model "${KIPRJMOD}/packages3D/PinHeader_1x40_P2.54mm_Horizontal.step"
 			(offset
 				(xyz 0 99.06 0)
 			)
